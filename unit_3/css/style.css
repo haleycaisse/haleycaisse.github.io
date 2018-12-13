@@ -19,6 +19,11 @@ a {
 	text-decoration: none;
 }
 
+header {
+	background-color: #35A67C;
+	padding: 20px;
+}
+
 nav a {
 	color: #cccccc;
 	font-style: italic;
