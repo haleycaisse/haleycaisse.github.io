@@ -8,6 +8,11 @@ body {
 	background-size: 100%;
 	background-color: #cccccc;
 }
+nav {
+	color: #cccccc;
+	font-style: italic;
+	margin-right: 10px;
+}
 
 p {
 	font-size: 22px;
