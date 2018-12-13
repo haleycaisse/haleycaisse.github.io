@@ -2,7 +2,8 @@ body {
 	text-align: center;
 	color: #222222;
 	font-family: Helvetica;
-	background-image: url(images/background-image.jpg);
+	background-image: url(background-image.jpg);
+	background-color: #cccccc;
 }
 
 p {
