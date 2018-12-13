@@ -13,6 +13,12 @@ body {
 	background-size: 100%;
 	background-color: #cccccc;
 }
+
+a {
+	color; #ffffff;
+	text-decoration: none;
+}
+
 nav a {
 	color: #cccccc;
 	font-style: italic;
