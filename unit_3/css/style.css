@@ -14,10 +14,6 @@ body {
 	background-color: #cccccc;
 }
 
-a {
-	color; #000;
-	text-decoration: none;
-}
 
 header {
 	background-color: white;
@@ -28,6 +24,7 @@ nav a {
 	color: #cccccc;
 	font-style: italic;
 	margin: 70px;
+	text-decoration: none;
 }
 
 img {
