@@ -13,7 +13,7 @@ body {
 	background-size: 100%;
 	background-color: #cccccc;
 }
-nav {
+nav a {
 	color: #cccccc;
 	font-style: italic;
 	margin-right: 10px;
