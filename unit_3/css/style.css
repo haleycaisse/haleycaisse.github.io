@@ -12,6 +12,7 @@ body {
 	background-attachment: fixed;
 	background-size: 100%;
 	background-color: #cccccc;
+	font-size: 16px;
 }
 
 header {
@@ -28,12 +29,12 @@ nav a {
 
 img {
 	width: 30%;
-	padding-top: 70px;
+	padding-top: 4.375em;
 }
 
 h1 {
-	font-size: 60px;
+	font-size: 3.75em;
 }
 p {
-	font-size: 35px;
+	font-size: 1em;
 }
