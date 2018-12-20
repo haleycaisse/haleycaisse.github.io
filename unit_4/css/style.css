@@ -55,7 +55,6 @@ h4 {
 	font-style: normal;
 	font-size: 1.5em;
 	padding-top: 7em;
-	padding-bottom: 4em;
 }
 
 p {
@@ -65,4 +64,5 @@ p {
 	font-size: 1em;
 	width: 30em;
 	margin: auto;
+	padding-bottom: 4em;
 }
