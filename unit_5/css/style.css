@@ -35,7 +35,6 @@ nav a {
 
 img {
 	width: 30%;
-	padding-top: 4.375em;
 }
 
 h1 {
@@ -53,6 +52,10 @@ h3 {
 }
 
 #one {
+	padding-top: 4.375em;
+}
+
+#two {
 	background-color: #FFE2B8;
 }
 
