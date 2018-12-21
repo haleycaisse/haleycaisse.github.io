@@ -33,6 +33,10 @@ nav a {
 	text-decoration: none;
 }
 
+#logo {
+	width: 10%;
+}
+
 img {
 	width: 30%;
 }
