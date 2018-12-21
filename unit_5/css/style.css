@@ -51,12 +51,15 @@ h3 {
 	font-size: 2em;
 }
 
+section {
+	background-color: #FFE2B8;
+}
+
 #one {
 	padding-top: 4.375em;
 }
 
 #two {
-	background-color: #FFE2B8;
 	padding-top: 4.375em;
 }
 
