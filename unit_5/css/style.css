@@ -18,8 +18,12 @@ body {
 }
 
 header {
-	background-color: white;
+	background-color: #FFED74;
 	padding: 1.25em;
+}
+
+nav {
+	background-color: #E8C66A;
 }
 
 nav a {
@@ -48,6 +52,10 @@ h3 {
 	font-size: 2em;
 }
 
+aside {
+	background-color: #FFC675;
+}
+
 h4 {
 	font-family: century-gothis, sans-serif;
 	font-weight: 700;
@@ -63,4 +71,8 @@ p {
 	width: 30em;
 	margin: auto;
 	padding-bottom: 4em;
+}
+
+footer {
+	background-color: #FF957E;
 }
