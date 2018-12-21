@@ -1,0 +1,66 @@
+@import url("https://use.typekit.net/jam3axg.css");
+
+* {
+	padding: 0;
+	margin: 0;
+}
+
+body {
+	text-align: center;
+	color: #222222;
+	font-family: century-gothic, sans-serif;
+	background-image: url(http://www.saurabhkarwal.com/wp-content/uploads/2018/03/Background-opera-speeddials-community-web-simple-backgrounds.jpg);
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-size: 100%;
+	background-color: #cccccc;
+	font-size: 16px;
+}
+
+header {
+	background-color: white;
+	padding: 1.25em;
+}
+
+nav a {
+	color: #cccccc;
+	font-style: italic;
+	margin: 4.375em;
+	text-decoration: none;
+}
+
+img {
+	width: 30%;
+	padding-top: 4.375em;
+}
+
+h1 {
+	font-family: century-gothic, sans-serif;
+	font-weight: 700;
+	font-style: normal;
+	font-size: 3.75em;
+}
+
+h3 {
+	font-family: century-gothis, sans-serif;
+	font-weight: 400;
+	font-style: normal;
+	font-size: 2em;
+}
+
+h4 {
+	font-family: century-gothis, sans-serif;
+	font-weight: 700;
+	font-style: normal;
+	font-size: 1.5em;
+}
+
+p {
+	font-family: century-gothic, sans-serif;
+	font-weight: 400;
+	font-style: normal;
+	font-size: 1em;
+	width: 30em;
+	margin: auto;
+	padding-bottom: 4em;
+}
