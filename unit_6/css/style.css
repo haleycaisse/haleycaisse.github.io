@@ -1,0 +1,107 @@
+@import url("https://use.typekit.net/jam3axg.css");
+
+* {
+	padding: 0;
+	margin: 0;
+}
+
+body {
+	text-align: center;
+	color: #222222;
+	font-family: century-gothic, sans-serif;
+	background-image: url(http://www.saurabhkarwal.com/wp-content/uploads/2018/03/Background-opera-speeddials-community-web-simple-backgrounds.jpg);
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-size: 100%;
+	background-color: #cccccc;
+	font-size: 16px;
+}
+
+header {
+	background-color: #FFED74;
+	padding: 1.25em;
+}
+
+nav {
+	background-color: #E8C66A;
+}
+
+nav a {
+	color: #cccccc;
+	font-style: italic;
+	margin: 4.375em;
+	text-decoration: none;
+}
+
+#logo {
+	width: 30%;
+}
+
+img {
+	width: 20%;
+}
+
+h1 {
+	font-family: century-gothic, sans-serif;
+	font-weight: 700;
+	font-style: normal;
+	font-size: 3.75em;
+}
+
+h3 {
+	font-family: century-gothis, sans-serif;
+	font-weight: 400;
+	font-style: normal;
+	font-size: 2em;
+}
+
+section {
+	background-color: #FFE2B8;
+}
+
+#one {
+	padding-top: 4.375em;
+}
+
+#two {
+	padding-top: 4.375em;
+}
+
+#three {
+	padding-top: 4.375em;
+}
+
+aside {
+	background-color: #FFC675;
+	float: left;
+}
+
+#pic {
+	width: 30%;
+}
+
+article {
+	background-color: #E89C6C;
+	float: right;
+}
+
+h4 {
+	font-family: century-gothis, sans-serif;
+	font-weight: 700;
+	font-style: normal;
+	font-size: 1.5em;
+}
+
+p {
+	font-family: century-gothic, sans-serif;
+	font-weight: 400;
+	font-style: normal;
+	font-size: 1em;
+	width: 30em;
+	margin: auto;
+	padding-bottom: 4em;
+}
+
+footer {
+	background-color: #FF957E;
+}
