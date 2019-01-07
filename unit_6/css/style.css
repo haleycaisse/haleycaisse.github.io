@@ -1,24 +1,32 @@
 @import url("https://use.typekit.net/jam3axg.css");
 
+
 * {
 	padding: 0;
 	margin: 0;
 }
 
 header {
-	padding: 12em;
+	margin: 11em;
 }
+
+/*section {
+	padding: 10em;
+}*/
 
 body {
 	text-align: center;
 	color: #222222;
 	font-family: century-gothic, sans-serif;
-	background-image: url(http://www.saurabhkarwal.com/wp-content/uploads/2018/03/Background-opera-speeddials-community-web-simple-backgrounds.jpg);
+	background-image: url(https://lh3.googleusercontent.com/oREOaupBXQWMDF0XyWigSGmIoxQa9AuPds0RetAb_EjrvFYCBFI0xQySswkKOQOV7612oD0P3vXbs99PrSIkt6IIw2Z_sLxSNGQxCc3rYiu6r9zqXbBFXc1dXy1WSFiPLthdD3XhW6Uc0iWOKrKVDPvHdREtwZHFghwBD85_C3JGFvLjRa3IVydFfpxBDJ5a-9uVgDGAeAGMdSRR4-amEoHza7CPQwNi-pqH-LkoT7CGRz6GX9HaA-UgDDpX9Bhf-1sRuppNp0NVptTWKOCkoLFH1xLwYa6G446bkhkAGJm9QwWce2GUHNtb868ITFUy3lcTRuTCnYd8slEYKKcXo9bzTlYGBj9iqyhZZqVDbdPICa8cEb2Nbbb7QRebPhoBcumOkET8Ty3p8Ps61TTngyBkYRNR_ZBllvRAenNF0YavWWaFNlRvDVhNxFuTLL-Jnm7pRNSDkyR1HY6ka-znvAjJl29xjVnggsYUMdF0-YqElOZSUrDSC9WfPoalsmqRiqwc4SsCNlkn5SJKVVmshWBPeNpwL9ilSsgcf4vxTuNOOujbMnwaMfP6kn--DXiyNAmxKyRE5P0vC-CYXbf4DybX1cR0chCy1DOAzv5Fzj0A9FXtjFezSuS2OVHEHAithAH-yUcyxNDQFYSJH0lB8roK=w1023-h651-no);
 	background-repeat: no-repeat;
-	background-attachment: fixed;
 	background-size: 100%;
-	background-color: #cccccc;
-	font-size: 16px;
+	background-color: white;
+	font-size: 16px;	
+}
+
+nav {
+	margin: 1em;
 }
 
 nav a {
@@ -28,19 +36,30 @@ nav a {
 	text-decoration: none;
 }
 
+article {
+	float: left;
+	padding: 1em;
+
+}
+
+aside {
+	float: left;
+	text-align: left;
+	width: 20%;
+	padding: 1em;
+}
+
 #logo {
 	width: 30%;
 }
 
-img {
-	width: 15%;
-}
 
 h1 {
 	font-family: century-gothic, sans-serif;
 	font-weight: 700;
 	font-style: normal;
 	font-size: 3.75em;
+	color: white;
 }
 
 h3 {
@@ -48,6 +67,7 @@ h3 {
 	font-weight: 400;
 	font-style: normal;
 	font-size: 2em;
+	color: white;
 }
 
 h4 {
@@ -55,7 +75,6 @@ h4 {
 	font-weight: 700;
 	font-style: normal;
 	font-size: 1.5em;
-	border: 1px black solid;
 }
 
 p {
@@ -63,18 +82,24 @@ p {
 	font-weight: 400;
 	font-style: normal;
 	font-size: 1em;
-	width: 20em;
-	margin: auto;
-	/*padding-bottom: 4em;*/
 }
 
-#pic {
-	width: 20em;
+section {
+	margin: 5em;
+	padding-top: 5em;
 }
 
+img {
+	width: 100%;
+}
 
-#right {
-	float: right;
+.wrapper {
+	width: 676.59px;
+    margin: auto;
+}
+
+.work {
+	width: 20%;
 }
 
 .clearfix:after {
@@ -85,4 +110,5 @@ p {
 	clear: both;
 	height: 0;
 }
+
 
