@@ -1,19 +1,9 @@
 @import url("https://use.typekit.net/jam3axg.css");
 
-
 * {
 	padding: 0;
 	margin: 0;
 }
-
-header {
-	padding: 14em;
-	background: #F6F6F6;
-}
-
-/*section {
-	padding: 10em;
-}*/
 
 body {
 	text-align: center;
@@ -26,38 +16,31 @@ body {
 	font-size: 16px;	
 }
 
-nav {
-	margin: 1em;
-}
-
-nav a {
-	color: #cccccc;
-	font-style: italic;
-	margin: 4.375em;
-	text-decoration: none;
-
-}
-
-
-article {
-	float: left;
-	padding: 1em;
-
-}
-
-aside {
-	float: left;
-	text-align: left;
-	width: 30%;
-	padding: 1em;
-}
-
-#logo {
-	width: 30%;
-}
-
 #wrapper {
 	width: 60%;
+	margin: 0 auto;
+	background-color: white;
+	padding: 2em 0 0 0;
+}
+
+nav {
+	background-color: #white;
+	font-family: century-gothic, sans-serif;
+}
+
+a {
+	color: #cccccc;
+	text-decoration: none;
+	margin: 4.375em;
+	font-style: italic;
+}
+
+a:hover {
+	color: #d2edf3;
+}
+
+header {
+	background-color: #white;
 }
 
 h1 {
@@ -76,12 +59,22 @@ h3 {
 	color: black;
 }
 
+main {
+	padding-top: 5em;
+}
+
+section {
+	background-color: white;
+	padding-top: 13em;
+}
+
 h4 {
 	font-family: century-gothis, sans-serif;
 	font-weight: 700;
 	font-style: normal;
 	font-size: 1.5em;
 	text-align: left;
+	
 }
 
 p {
@@ -91,29 +84,33 @@ p {
 	font-size: 1em;
 }
 
-section {
-	margin: 5em;
-	padding-top: 5em;
-}
-
-img {
-	width: 100%;
-}
-
 hr {
 	border: none;
 	height: 2px;
 	background-color: black;
+	margin-bottom: 1em;
 	/*width: 30%;*/
-	margin: 1em 0;
-}
-.wrapper {
-	width: 676.59px;
-    margin: auto;
+	/*margin: 1em 0;*/
 }
 
-.work {
-	width: 20%;
+article {
+	float: left;
+
+}
+
+aside {
+	float: right;
+	text-align: left;
+	width: 48%;
+}
+
+footer {
+	text-align: left;
+	padding: 7em 0 1.5em 0;
+}
+
+.wrapper {
+    margin: auto;
 }
 
 .clearfix:after {
@@ -125,4 +122,26 @@ hr {
 	height: 0;
 }
 
+#logo {
+	width: 30%;
+	padding-top: 13em;
+}
+
+.work {
+	width: 22%;
+	padding: .5em;
+	border: 1px solid black;
+}
+
+#resume {
+	margin: 0;
+	color: white;
+	background-color: #cccccc;
+	padding: .5em;
+	font-style: none;
+}
+
+#res {
+	margin-top: 1.5em;
+}
 
