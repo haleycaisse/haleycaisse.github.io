@@ -202,11 +202,7 @@ section {
 }
 
 
-@media only screen and (max-width: 375px) {
-
-	.work {
-		width: 40%;
-	}
+@media only screen and (max-width: 590px) {
 
 	body {
 		font-size: 10px;
@@ -222,6 +218,18 @@ section {
 	img { 
 		width: 80%;
 
+	}
+
+	a {
+		font-size: 1.5em;
+	}
+
+}
+
+@media only screen and (max-width: 590px) {
+
+	a {
+		margin: .5em;
 	}
 
 }
