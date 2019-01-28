@@ -202,6 +202,24 @@ section {
 }
 
 
+@media only screen and (max-width: 375px) {
+
+	.work {
+		width: 40%;
+	}
+
+	body {
+		font-size: 10px;
+	}
+
+	#wrapper {
+	width: 95%;
+	padding: 2em 0 0 0;
+}
+
+
+}
+
 
 
 
