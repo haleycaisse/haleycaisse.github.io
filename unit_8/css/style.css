@@ -145,3 +145,63 @@ footer {
 	margin-top: 1.5em;
 }
 
+@media only screen and (max-width: 1220px) {
+
+article {
+	float: none
+}
+
+aside {
+	float: none;
+	margin: auto;
+	width: 90%;
+	padding-top: 1em;
+	text-align: center;
+}
+
+.work {
+	width: 47%;
+}
+
+ #logo {
+padding-top: 7em;
+ }
+
+section {
+	padding-top: 7em;
+}
+ main {
+ 	padding: 0;
+ }
+
+}
+
+@media only screen and (max-width: 1123px) {
+	.work {
+	width: 46%;
+}
+
+}
+
+@media only screen and (max-width: 968px) {
+
+	a {
+		margin: 2em;
+	}
+
+}
+
+@media only screen and (max-width: 842px) {
+	.work {
+		width: 45%;
+	}
+
+	aside {
+		width: 80%;
+	}
+}
+
+
+
+
+
