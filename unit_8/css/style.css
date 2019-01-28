@@ -213,8 +213,10 @@ section {
 	}
 
 	#wrapper {
-	width: 95%;
-	padding: 2em 0 0 0;
+		width: 80%;
+		margin: 0 auto;
+		background-color: white;
+		padding: 2em 0 0 0;
 }
 
 
